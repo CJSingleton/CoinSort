@@ -1,0 +1,7 @@
+C:\Users\cjsin\source\repos\GC_Extra Projects\CoinSort\CoinSort\bin\Debug\CoinSort.exe.config
+C:\Users\cjsin\source\repos\GC_Extra Projects\CoinSort\CoinSort\bin\Debug\CoinSort.exe
+C:\Users\cjsin\source\repos\GC_Extra Projects\CoinSort\CoinSort\bin\Debug\CoinSort.pdb
+C:\Users\cjsin\source\repos\GC_Extra Projects\CoinSort\CoinSort\obj\Debug\CoinSort.csprojAssemblyReference.cache
+C:\Users\cjsin\source\repos\GC_Extra Projects\CoinSort\CoinSort\obj\Debug\CoinSort.csproj.CoreCompileInputs.cache
+C:\Users\cjsin\source\repos\GC_Extra Projects\CoinSort\CoinSort\obj\Debug\CoinSort.exe
+C:\Users\cjsin\source\repos\GC_Extra Projects\CoinSort\CoinSort\obj\Debug\CoinSort.pdb
